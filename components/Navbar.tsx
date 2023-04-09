@@ -8,7 +8,7 @@ export default function Navbar() {
   return (
     <div>
       <Head>
-        <title>Create Next Responsive Navbar With Tailwind CSS</title>
+        <title>News Portal</title>
         <meta
           name="description"
           content="Create Next JS Responsive Menu with Tailwind CSS"
